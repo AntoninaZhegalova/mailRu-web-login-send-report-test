@@ -33,8 +33,3 @@ target/
 .project
 .settings/org.eclipse.buildship.core.prefs
 .vscode
-/gradle/wrapper/gradle-wrapper.jar
-/gradle/wrapper/gradle-wrapper.properties
-/gradlew
-/gradlew.bat
-/src/test/resources/config/local.properties
